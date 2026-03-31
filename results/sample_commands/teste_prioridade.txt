@@ -1,0 +1,3 @@
+echo 'EMERGENCY PAC201 1 500' > input_pipe
+echo 'EMERGENCY PAC202 5 500' > input_pipe
+echo 'STATUS' > input_pipe

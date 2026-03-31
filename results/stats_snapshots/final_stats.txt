@@ -1,0 +1,43 @@
+==========================================
+ESTATÍSTICAS DO SISTEMA HOSPITALAR
+==========================================
+Timestamp: Fri Jan  2 13:52:01 2026
+Tempo Operação: 1 segundos
+
+CENTRO DE TRIAGEM
+------------------
+Total Emergências: 0
+Total Consultas:   0
+Tempo Médio Espera (Emerg.): 0.00 ut
+Tempo Médio Espera (Consul.): 0.00 ut
+Pacientes Transferidos: 0
+Pacientes Rejeitados:   0
+
+BLOCOS OPERATÓRIOS
+------------------
+BO1 (Cardiologia): 0
+BO2 (Ortopedia):   0
+BO3 (Neurologia):  0
+Cirurgias Canceladas: 0
+Tempo Médio Espera (Cirurgia): 0.00 ut
+
+FARMÁCIA CENTRAL
+----------------
+Total Pedidos: 0
+Pedidos Urgentes: 0
+Tempo Médio Resposta: 0.00 ut
+Reposições Stock: 0
+Esgotamentos: 0
+
+LABORATÓRIOS
+------------
+LAB1 análises: 0
+LAB2 análises: 0
+Análises Urgentes: 0
+Tempo Médio Total (LAB): 0.00 ut
+
+GLOBAIS
+-------
+Total Operações: 0
+Erros Sistema: 0
+==========================================

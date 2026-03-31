@@ -1,0 +1,3 @@
+echo 'APPOINTMENT PAC401 4 600' > input_pipe
+echo 'APPOINTMENT PAC402 5 700 50' > input_pipe
+echo 'STATUS' > input_pipe

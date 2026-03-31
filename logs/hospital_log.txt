@@ -1,0 +1,16 @@
+================ LOG START (Fri Jan  2 13:52:00 2026
+) ================
+[2026-01-02 13:52:00] [SYSTEM] [INFO] [START] Gestor Central iniciado
+[2026-01-02 13:52:00] [SYSTEM] [INFO] [URGENT_ROUTER] iniciado
+[2026-01-02 13:52:00] [SYSTEM] [INFO] [RESPONSES_LISTENER] iniciado
+[2026-01-02 13:52:00] [SURGERY] [INFO] [START] surgery_main_loop iniciado
+[2026-01-02 13:52:00] [PHARMACY] [INFO] [START] pharmacy_main_loop iniciado
+[2026-01-02 13:52:00] [TRIAGE] [INFO] [START] triage_main_loop iniciado
+[2026-01-02 13:52:00] [LAB] [INFO] [START] laboratory_main_loop iniciado
+[2026-01-02 13:52:01] [SYSTEM] [INFO] [RESPONSES_LISTENER] terminado
+[2026-01-02 13:52:01] [TRIAGE] [INFO] [MONITOR_START] stability monitor iniciado
+[2026-01-02 13:52:01] [SYSTEM] [INFO] [SHUTDOWN] Iniciando encerramento gracioso
+[2026-01-02 13:52:01] [SYSTEM] [INFO] [URGENT_ROUTER] terminado
+[2026-01-02 13:52:01] [PHARMACY] [INFO] [SHUTDOWN] shutdown recebido
+================ LOG END (Fri Jan  2 13:52:01 2026
+) ==================

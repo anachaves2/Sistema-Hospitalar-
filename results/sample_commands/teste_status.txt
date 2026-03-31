@@ -1,0 +1,1 @@
+echo 'STATUS' > input_pipe
